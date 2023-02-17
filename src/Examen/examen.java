@@ -19,7 +19,7 @@ public class examen {
     }
 
     public static void main(String[] args) {
-        ej9('N',1000,1);
+        ej9('N',1000,14);
     }
 
 }
