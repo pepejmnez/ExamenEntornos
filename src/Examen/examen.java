@@ -18,5 +18,8 @@ public class examen {
         return sueldo+incremento; // línea donde establecer un punto de ruptura, breakpoint
     }
 
+    public static void main(String[] args) {
+        ej9('N',1000,1);
+    }
 
 }

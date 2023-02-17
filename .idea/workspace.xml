@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f93c29d-1ff3-4ac6-bfe1-0415598edc9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamenEntornos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examen/examen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examen/examenTest.java" afterDir="false" />
+    <list default="true" id="2f93c29d-1ff3-4ac6-bfe1-0415598edc9f" name="Changes" comment="Commit inicia">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examen/examen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examen/examen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +51,20 @@
       <recent name="Examen" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.examenTest">
+  <component name="RunManager" selected="Application.examen">
+    <configuration name="examen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examen.examen" />
+      <module name="ExamenEntornos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="examenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ExamenEntornos" />
       <extension name="coverage">
@@ -107,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.examen" />
         <item itemvalue="JUnit.examenTest" />
         <item itemvalue="JUnit.examenTest.testEj9" />
         <item itemvalue="JUnit.examenTest.testej9" />
@@ -122,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1676630271776</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit inicia">
+      <created>1676632613798</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676632613798</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,17 +151,17 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit inicia" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit inicia" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Examen/examenTest.java</url>
-          <line>10</line>
-          <properties class="Examen.examenTest" method="testEj9">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examen/examen.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
